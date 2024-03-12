@@ -1,6 +1,7 @@
 <br clear="both">
-
+<!--
 <img align="left" height="200" src="https://scontent.fblr8-1.fna.fbcdn.net/v/t39.30808-6/358488648_1725696527888543_6847725855917417292_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3NogHsisyHsAX-mi9bu&_nc_ht=scontent.fblr8-1.fna&oh=00_AfAA8F-K1gnAaFJ2uYPIiaeYdBuOPtZVBCnPXPwxckC52A&oe=65F5E602"  />
+-->
 
 ###
 
